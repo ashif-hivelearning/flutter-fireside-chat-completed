@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721907108048",
+    "project_id": "fireside-chat-4341e",
+    "storage_bucket": "fireside-chat-4341e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721907108048:android:7139edc677ed0dc656b6d5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fireside_chat_completed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721907108048-m4h3ij8r55unamigi4pndvidmudjkvso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHek3Ykv4YWiIQTbcWWDa0io8pA7hq91g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721907108048-m4h3ij8r55unamigi4pndvidmudjkvso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
